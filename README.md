@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavish Khandelwal</h1>
-🔭 I’m currently working on Python and its web frameworks.<br>🌱 I’m currently learning Tastpie and DRF.<br>📫 How to reach me **lavishkhandelwallk@gmail.com**
+🔭 I’m currently working on Python and its web frameworks.<br>🌱 I’m currently learning Tastpie and DRF.<br>📫 How to reach me lavishkhandelwallk@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lk141#8820) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavishkhandelwal) 
